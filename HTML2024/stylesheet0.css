@@ -1,0 +1,15 @@
+h1{
+   font-size: 24px;
+   color: #ff0000;
+   background-color: #000000;
+}
+p{
+    font-size: 36px;
+    color: #0000ff;
+    background-color: #00ff00;
+}
+h2{
+    background-color: #ffff00;
+    color: #0000ff;
+    font-size: 24px;
+}

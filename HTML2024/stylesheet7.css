@@ -1,0 +1,35 @@
+p{
+    border: #ff9900 solid 5px;
+    background-color: #ffffcc;
+    padding: 10px;
+}
+
+h1{
+    background-color: gray;
+    color: white;
+    border: black solid 5px;
+    width: 500px;
+    margin: 0 auto;
+}
+.borderM{
+    border: #000 3px solid;
+    background-color: #f00;
+    color: #00f;
+}
+
+#header {
+     background-color: black;
+    color: white;
+    width: 500px;
+    height: 500px;
+    padding: 20px;
+    border-style: none;
+    font-size: 36px;
+    
+}
+.borderB {
+    background-color: blue;
+    color: green;
+    border-right: yellow solid  3px;
+border-left: yellow solid 3px;
+}

@@ -1,0 +1,40 @@
+#container{
+    width: 600px;
+    background-color: red;
+    margin: 0auto;
+}
+
+#header{
+    width: 560px;
+    background-color: blueviolet;
+    padding:20px;
+    color: white;
+    font-size: xx-large;
+    text-align: center;
+}
+
+#menu{
+    width: 80px;
+    height: 300px;
+    background-color: yellow;
+    padding: 10px;
+    float: left;
+    
+}
+#contents{
+    width: 480px;
+    height: 300px;
+    padding:10px;
+    float: left;
+    background-color: rgb(179, 233, 235);
+    font-size: 16px;
+
+}
+#footer{
+    background-color: rgb(241, 228, 228);
+    height: 50px;
+    font-size: x-small;
+    text-align: center;
+    clear: both;
+    line-height: 50px;
+}
